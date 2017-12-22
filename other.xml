@@ -1,0 +1,53 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPep8Inspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FUNCTION" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_FUNCTION" value="true" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_CLASS" value="true" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/anki/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/banking/bin/python" value="true" />
+        <entry key="$USER_HOME$/.virtualenvs/banking_new/bin/python3.5" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/capsym/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/cba/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/donation_portal/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/anki/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/banking_new/bin/python3.5" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/capsym/bin/python" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
