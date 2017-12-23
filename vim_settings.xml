@@ -1,12 +1,12 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/start_script.py" timestamp="1513923176535">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513987992148">
+      <file name="/Dummy.txt" timestamp="1513989767286">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/cba/web/apps/client/models.py" timestamp="1513987685806">
@@ -14,6 +14,12 @@
         <mark key="]" line="34" column="43" />
         <mark key="^" line="34" column="43" />
         <mark key="." line="34" column="43" />
+      </file>
+      <file name="$USER_HOME$/cba/web/apps/basemodel/models.py" timestamp="1513989748414">
+        <mark key="u" line="42" column="10" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/cba/deps/pip.base" timestamp="1513987299908">
         <mark key="[" line="3" column="11" />
@@ -24,14 +30,31 @@
         <mark key="." line="33" column="15" />
         <mark key="^" line="33" column="15" />
       </file>
+      <file name="$USER_HOME$/cba/web/apps/client/serializers/loan.py" timestamp="1513988714562">
+        <mark key="[" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/cba/web/apps/basemodel/apps.py" timestamp="1513989686105">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+      </file>
+      <file name="$USER_HOME$/cba/web/local_settings.py" timestamp="1513988940299">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/cba/web/apps/rest/serializers/template.py" timestamp="1513988730479">
+        <mark key="[" line="5" column="14" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text />
       </register>
     </registers>
     <search>
