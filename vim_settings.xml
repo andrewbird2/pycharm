@@ -6,6 +6,18 @@
       <file name="/start_script.py" timestamp="1513923176535">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1513987992148">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/cba/web/apps/client/models.py" timestamp="1513987685806">
+        <mark key="[" line="35" column="45" />
+        <mark key="]" line="34" column="43" />
+        <mark key="^" line="34" column="43" />
+        <mark key="." line="34" column="43" />
+      </file>
+      <file name="$USER_HOME$/cba/deps/pip.base" timestamp="1513987299908">
+        <mark key="[" line="3" column="11" />
+      </file>
       <file name="$USER_HOME$/capsym/README.md" timestamp="1513922985255">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="33" column="15" />
@@ -26,13 +38,24 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
