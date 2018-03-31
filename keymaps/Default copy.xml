@@ -3,6 +3,7 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl alt b" />
   </action>
+  <action id="EditorSplitLine" />
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="control alt button1" />
   </action>
