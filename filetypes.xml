@@ -5,6 +5,7 @@
       <mapping pattern=".zcompdump" type="PLAIN_TEXT" />
       <mapping pattern="apt-get" type="PLAIN_TEXT" />
       <mapping pattern="ppts" type="PLAIN_TEXT" />
+      <mapping pattern="update_fixtures" type="PLAIN_TEXT" />
       <mapping pattern=".zshrc" type="PLAIN_TEXT" />
       <mapping pattern="grunt1" type="PLAIN_TEXT" />
       <mapping pattern="generate_cert" type="PLAIN_TEXT" />
