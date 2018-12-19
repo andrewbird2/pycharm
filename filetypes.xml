@@ -12,6 +12,7 @@
       <mapping pattern="grunt1" type="PLAIN_TEXT" />
       <mapping pattern="generate_cert" type="PLAIN_TEXT" />
       <mapping pattern="grunt" type="PLAIN_TEXT" />
+      <mapping pattern="build-react" type="PLAIN_TEXT" />
       <mapping pattern="django" type="PLAIN_TEXT" />
       <mapping pattern="pip" type="PLAIN_TEXT" />
       <mapping pattern="sumy" type="PLAIN_TEXT" />
