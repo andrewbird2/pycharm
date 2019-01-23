@@ -1,8 +1,0 @@
-<application>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="15" />
-  </component>
-  <component name="EditorSettings">
-    <option name="SHOW_NOTIFICATION_AFTER_REFORMAT_CODE_ACTION" value="false" />
-  </component>
-</application>
