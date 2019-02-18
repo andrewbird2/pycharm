@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
-    <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
@@ -14,5 +13,6 @@
     <mask>*.js</mask>
     <mask>*urls.py</mask>
     <mask>*.py</mask>
+    <mask>*.html</mask>
   </component>
 </application>
