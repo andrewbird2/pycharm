@@ -14,5 +14,6 @@
     <mask>*urls.py</mask>
     <mask>*.py</mask>
     <mask>*.html</mask>
+    <mask>*.json</mask>
   </component>
 </application>
