@@ -11,10 +11,10 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>*urls.py</mask>
     <mask>*.html</mask>
     <mask>*.json</mask>
+    <mask>*.js</mask>
     <mask>*.py</mask>
   </component>
 </application>
