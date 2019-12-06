@@ -3,6 +3,7 @@
     <option name="customScope" value="Exclude migrations" />
     <option name="defaultScopeName" value="Exclude migrations" />
     <option name="SEARCH_SCOPE" value="Exclude migrations" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
