@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="jinja" type="PLAIN_TEXT" />
-      <mapping pattern="*.js.flow" type="Flow" />
     </extensionMap>
   </component>
 </application>
