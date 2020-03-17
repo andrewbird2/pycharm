@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern="webpack-build-liquorice" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="webpack-build-cloud-website" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
