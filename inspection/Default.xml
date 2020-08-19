@@ -4,7 +4,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="55">
+        <list size="69">
           <item index="0" class="java.lang.String" itemvalue="numba" />
           <item index="1" class="java.lang.String" itemvalue="rope-py3k" />
           <item index="2" class="java.lang.String" itemvalue="scikit-learn" />
@@ -60,6 +60,20 @@
           <item index="52" class="java.lang.String" itemvalue="unicodecsv" />
           <item index="53" class="java.lang.String" itemvalue="openpyxl" />
           <item index="54" class="java.lang.String" itemvalue="Pillow" />
+          <item index="55" class="java.lang.String" itemvalue="coverage" />
+          <item index="56" class="java.lang.String" itemvalue="django-coverage-plugin" />
+          <item index="57" class="java.lang.String" itemvalue="Werkzeug" />
+          <item index="58" class="java.lang.String" itemvalue="factory-boy" />
+          <item index="59" class="java.lang.String" itemvalue="wheel" />
+          <item index="60" class="java.lang.String" itemvalue="whitenoise" />
+          <item index="61" class="java.lang.String" itemvalue="gunicorn" />
+          <item index="62" class="java.lang.String" itemvalue="flake8" />
+          <item index="63" class="java.lang.String" itemvalue="ipdb" />
+          <item index="64" class="java.lang.String" itemvalue="django-easy-select2" />
+          <item index="65" class="java.lang.String" itemvalue="django-redis" />
+          <item index="66" class="java.lang.String" itemvalue="django-storages-redux" />
+          <item index="67" class="java.lang.String" itemvalue="gevent" />
+          <item index="68" class="java.lang.String" itemvalue="django-test-plus" />
         </list>
       </value>
     </option>
