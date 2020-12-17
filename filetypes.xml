@@ -1,11 +1,13 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="commands" type="AUTO_DETECTED" />
       <mapping pattern="webpack-build-liquorice" type="PLAIN_TEXT" />
       <mapping pattern="webpack-build-cloud-website" type="PLAIN_TEXT" />
       <mapping ext="sls" type="PLAIN_TEXT" />
       <mapping ext="jinja" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
