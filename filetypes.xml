@@ -1,14 +1,14 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
+    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="resumes" type="AUTO_DETECTED" />
       <mapping pattern="commands" type="AUTO_DETECTED" />
-      <mapping pattern="docker_excludes" type="AUTO_DETECTED" />
       <mapping pattern="javaex" type="AUTO_DETECTED" />
+      <mapping pattern="docker_excludes" type="AUTO_DETECTED" />
+      <mapping pattern="resumes" type="AUTO_DETECTED" />
       <mapping pattern="DockerfileDev" type="AUTO_DETECTED" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="webpack-build-liquorice" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="webpack-build-cloud-website" type="PLAIN_TEXT" />
       <mapping ext="sls" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
