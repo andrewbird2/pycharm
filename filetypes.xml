@@ -14,6 +14,7 @@
       <mapping ext="sls" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
       <mapping ext="nginx" type="PLAIN_TEXT" />
+      <mapping ext="pstats" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="jinja" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
