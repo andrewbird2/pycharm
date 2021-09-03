@@ -12,8 +12,8 @@
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="webpack-build-liquorice" type="PLAIN_TEXT" />
       <mapping pattern="webpack-build-cloud-website" type="PLAIN_TEXT" />
-      <mapping ext="dockerignore" type="PLAIN_TEXT" />
       <mapping ext="sls" type="PLAIN_TEXT" />
+      <mapping ext="dockerignore" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
       <mapping ext="nginx" type="PLAIN_TEXT" />
       <mapping ext="pstats" type="PLAIN_TEXT" />
