@@ -5,6 +5,7 @@
       <mapping pattern="run_celery" type="AUTO_DETECTED" />
       <mapping pattern="DockerfileInferenceTest" type="AUTO_DETECTED" />
       <mapping pattern="resumes" type="AUTO_DETECTED" />
+      <mapping pattern="docker_excludes_sh" type="AUTO_DETECTED" />
       <mapping pattern="commands" type="AUTO_DETECTED" />
       <mapping pattern="docker_excludes" type="AUTO_DETECTED" />
       <mapping pattern="javaex" type="AUTO_DETECTED" />
