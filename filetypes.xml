@@ -12,6 +12,7 @@
       <mapping pattern="DockerfileInvoices" type="AUTO_DETECTED" />
       <mapping pattern="DockerfileDev" type="AUTO_DETECTED" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern=".covcache" type="PLAIN_TEXT" />
       <mapping pattern="webpack-build-liquorice" type="PLAIN_TEXT" />
       <mapping pattern="webpack-build-cloud-website" type="PLAIN_TEXT" />
       <mapping ext="sls" type="PLAIN_TEXT" />
