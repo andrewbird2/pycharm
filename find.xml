@@ -19,5 +19,6 @@
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
     <mask>*.py</mask>
+    <mask>e</mask>
   </component>
 </application>
