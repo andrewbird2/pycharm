@@ -11,6 +11,8 @@
       <mapping pattern="javaex" type="AUTO_DETECTED" />
       <mapping pattern="DockerfileInvoices" type="AUTO_DETECTED" />
       <mapping pattern="DockerfileDev" type="AUTO_DETECTED" />
+      <mapping pattern=".env.*" type="Env File" />
+      <mapping ext="env" type="Env File" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".covcache" type="PLAIN_TEXT" />
       <mapping pattern="webpack-build-liquorice" type="PLAIN_TEXT" />
