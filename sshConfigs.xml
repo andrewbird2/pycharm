@@ -1,0 +1,8 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="dev-andrew" id="fcc025eb-1269-4dae-ac10-ef9ca4094f6a" keyPath="C:\Users\andrew.bird\.ssh\affinda-dev.pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" useOpenSSHConfig="true" />
+      <sshConfig host="dev-andrew" id="369729d8-0eb3-468e-8094-d8b19bdd3b90" keyPath="C:\Users\andrew.bird\.ssh\affinda-dev.pem" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
